@@ -3,7 +3,7 @@
 - 🍂 Sou Icaro, um desenvolvedor e engenheiro de software em formação.
 <br>
 
-
+ 
  ## Tecnologias que uso
 
 <div style="display: flex;">
