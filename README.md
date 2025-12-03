@@ -20,10 +20,3 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-4f400c?style=for-the-badge&logo=javascript" alt="JavaScript">
 </div>
-
-## Dados do GitHub
-
- <div style="display: flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Cavalcante&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Icaro-Cavalcante&show_icons=true&theme=radical&line_height=27" alt="Icaro github stats"/>
- </div>
