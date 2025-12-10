@@ -3,10 +3,7 @@
 <img align="right" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux">
 👾 Sou Icaro, um engenheiro de software em formação pela Universidade Federal do Cariri (UFCA). <br> <br>
 💻 Pessoalmente sou apaixonado por tecnologia e estou sempre disposto a aprender coisas novas e aprimorar minhas habilidades. <br> <br>
-🪪 Se quiser me conhecer melhor aqui está meu LinkedIn: <br> <br>
- <a href="https://www.linkedin.com/in/icaro-cavalcante-576267388/" target="_blank">
-   <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin icaro">
- </a>
+🪪 Se quiser me conhecer melhor, considere checkar meu LinkedIn, ele esta nos links do meu perfil.
 
 <br>
 
