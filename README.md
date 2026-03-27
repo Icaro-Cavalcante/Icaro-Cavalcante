@@ -1,13 +1,17 @@
-## 👋 Olá pessoas
+## 👋 Hello, world!
 
 <img align="right" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux">
-<p></p>
 
-`👾 Sou Icaro, um engenheiro de software em formação pela Universidade Federal do Cariri (UFCA).` <br> <br>
-`☄️ Pessoalmente sou apaixonado por tecnologia e estou sempre disposto a aprender coisas novas e aprimorar minhas habilidades.` <br> <br>
-`⭐ Se quiser me conhecer melhor, considere checkar meu LinkedIn, ele esta nos links do meu perfil.` <br> <br>
-`🛸 Estou frequentemente ativo aqui no GitHub, contribuindo para meus projetos públicos e privados.`
 
- ### 🕹️ Tecnologias que uso
+👾 I'm Icaro Cavalcante, a `Backend Developer` and also a student at Universidade Federal do Cariri (UFCA).<br><br>
+🚀 I have the ability of solving complex problems with `code`.<br><br>
+🛸 I'm frequently `active` here on GitHub, always `contributing` to my public or private repositories.
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,flask,postgres,git,github)](https://skillicons.dev)
+ ### Technologies I use
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,postgres,linux,git,github)](https://skillicons.dev)
+
+### Languages
+
+- 🇧🇷 `Português` - Fluent
+-  🇺🇸 `English` - Fluent
