@@ -10,4 +10,4 @@
 
  ### 🕹️ Tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,flask,django,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,postgres,git,github)](https://skillicons.dev)
