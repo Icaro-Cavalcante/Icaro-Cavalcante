@@ -9,7 +9,7 @@
 
  ### Technologies I use
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,flask,postgres,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,postgres,linux,git,github)](https://skillicons.dev)
 
 ### Languages
 
